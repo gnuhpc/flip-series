@@ -10,6 +10,15 @@
 4. [FLIP-4 窗口清道夫升级：让数据淘汰更灵活](flip-4.md)
 5. [FLIP-5：给广播变量瘦身：让数据传输更高效](flip-5.md)
 6. [FLIP-6 集群运行更灵活：Flink 的统一部署模型](flip-6.md)
+7. [FLIP-7 数据一目了然：Flink 让监控指标可视化](flip-7.md)
+8. [FLIP-8：让非分区状态也能伸缩自如](flip-8.md)
+9. [FLIP-9 触发器语言：一次定义规则的尝试](flip-9.md)
+10. [FLIP-10: 统一检查点和保存点：让数据备份更简单](flip-10.md)
+11. [FLIP-11：Table API让流式聚合更简单](flip-11.md)
+12. [FLIP-12: 异步I/O：让Flink处理外部系统数据更高效](flip-12.md)
+13. [FLIP-13：Side Outputs：给Flink添加"副驾驶座"](flip-13.md)
+14. [FLIP-14：CrossGroup操作符：更高效的数据配对方案](flip-14.md)
+15. [FLIP-15：让循环更聪明：Flink流处理中的迭代优化](flip-15.md)
 
 ## 关注我们
 
