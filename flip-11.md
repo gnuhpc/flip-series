@@ -27,7 +27,7 @@ graph LR
     F[原始数据] --> G[Table API]
     G --> H[内置窗口聚合]
     H --> I[结果输出]
-    end
+    en![![alt text](image-1.png)](image.png)d
 
 style F fill:#97c2fc
 style G fill:#97c2fc
