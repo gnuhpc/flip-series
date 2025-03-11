@@ -101,3 +101,8 @@ plugins:
   - jekyll-github-metadata
   - jekyll-include-cache
   - jekyll-sitemap
+
+# Exclude directories and/or files from being processed and published
+exclude:
+  - flips-zh/
+  - flips-zh/**/*
