@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "FLIP-437: ChatGPT Meets Flink SQL"
 nav_order: 437
 parent: FLIPs

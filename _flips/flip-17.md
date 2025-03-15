@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "FLIP-17: Side Inputs for Stream Processing"
 nav_order: 17
 parent: FLIPs

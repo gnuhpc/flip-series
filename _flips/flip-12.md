@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "FLIP-12: Asynchronous I/O"
 nav_order: 12
 parent: FLIPs

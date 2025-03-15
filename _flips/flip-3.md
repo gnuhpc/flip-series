@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: default
 title: "FLIP-3: Documentation Reorganization"
 nav_order: 3
-parent: Flips
+parent: FLIPs
 permalink: /flips/flip-3/
 description: "Making Flink Documentation More Accessible and User-Friendly"
 ---

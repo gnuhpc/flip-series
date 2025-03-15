@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "FLIP-18: Accelerating Sorting with Code Generation"
 nav_order: 18
 parent: FLIPs

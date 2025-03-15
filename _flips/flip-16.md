@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "FLIP-16: Reliable Iterative Stream Processing"
 nav_order: 16
 parent: FLIPs

@@ -41,16 +41,14 @@ collections:
   flips:
     output: true
     permalink: "/:collection/:path/"
-  
-defaults:
-  - scope:
-      path: ""
-      type: flips
-    values:
-      layout: flip
-      nav_order: 2
-      has_toc: true
+    nav_fold: false
 
+just_the_docs:
+  # Define which collections are used in just-the-docs
+  collections:
+    flips:
+      name: FLIPs
+  
 # External navigation links
 nav_external_links:
   - title: Flink Official Site

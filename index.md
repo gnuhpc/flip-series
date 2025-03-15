@@ -33,3 +33,16 @@ Welcome to the Flink FLIPs Blog, where we provide in-depth explanations and disc
 ## Browse All FLIPs
 
 You can find all FLIPs in the navigation menu on the left. FLIPs are organized by number and include detailed technical discussions, diagrams, and implementation details.
+
+## Contact & Connect
+
+You can reach me through:
+
+- LinkedIn: [gnuhpc](https://www.linkedin.com/in/gnuhpc/)
+- Email: huangpc99@gmail.com
+
+### WeChat Channel
+
+Follow my on WeChat by scanning the QR code:
+
+![WeChat Channel QR Code](qrcode.jpg)

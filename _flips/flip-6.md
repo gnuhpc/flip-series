@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "FLIP-6: Better Cluster Deployment"
 nav_order: 6
 parent: FLIPs

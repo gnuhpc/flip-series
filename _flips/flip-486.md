@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "FLIP-486: DeltaJoin"
 nav_order: 486
 parent: FLIPs
