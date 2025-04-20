@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "FLIP-20: SQL as Data Detective"
 nav_order: 20
 parent: FLIPs

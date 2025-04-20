@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "FLIP-13: Side Outputs"
 nav_order: 13
 parent: FLIPs

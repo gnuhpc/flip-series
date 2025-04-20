@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: default
 title: "FLIP-1: Smart Recovery for Failed Tasks in Flink"
 nav_order: 1
-parent: Flips
+parent: FLIPs
 permalink: /flips/flip-1/
 description: "How Flink Handles Task Failures with Intelligent Recovery"
 ---

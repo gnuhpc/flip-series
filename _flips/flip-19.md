@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "FLIP-19: BLOB Storage Overhaul"
 nav_order: 19
 parent: FLIPs

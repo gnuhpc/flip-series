@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "FLIP-10: Unified Checkpoints and Savepoints"
 nav_order: 10
 parent: FLIPs

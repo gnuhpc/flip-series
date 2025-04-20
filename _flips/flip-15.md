@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "FLIP-15: Smarter Iterations"
 nav_order: 15
 parent: FLIPs

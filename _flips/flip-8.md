@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "FLIP-8: Scalable Non-Partitioned State"
 nav_order: 8
 parent: FLIPs

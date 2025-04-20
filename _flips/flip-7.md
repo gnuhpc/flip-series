@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "FLIP-7: Visualizing Monitoring Metrics"
 nav_order: 7
 parent: FLIPs

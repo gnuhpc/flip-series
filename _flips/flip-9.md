@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: default
 title: "FLIP-9: Trigger Language"
 nav_order: 9
-parent: Flips
+parent: FLIPs
 permalink: /flips/flip-9/
 description: "An Attempt at Defining a Rule Language for Flink Triggers"
 ---

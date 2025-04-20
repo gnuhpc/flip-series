@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: default
 title: "FLIP-4: Enhanced Window Evictor"
 nav_order: 4
-parent: Flips
+parent: FLIPs
 permalink: /flips/flip-4/
 description: "Making Data Eviction More Flexible in Flink Windows"
 ---

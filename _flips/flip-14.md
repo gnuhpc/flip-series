@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "FLIP-14: CrossGroup Operator"
 nav_order: 14
 parent: FLIPs

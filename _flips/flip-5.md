@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "FLIP-5: Optimizing Broadcast Variables"
 nav_order: 5
 parent: FLIPs

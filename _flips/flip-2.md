@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: default
 title: "FLIP-2: Smarter Window Functions"
 nav_order: 2
-parent: Flips
+parent: FLIPs
 permalink: /flips/flip-2/
 description: "Making Window Processing More Intelligent with Enhanced Context Information"
 ---

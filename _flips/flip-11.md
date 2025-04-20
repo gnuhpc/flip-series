@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "FLIP-11: Simplified Stream Aggregation"
 nav_order: 11
 parent: FLIPs
